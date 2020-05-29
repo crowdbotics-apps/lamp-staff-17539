@@ -12,7 +12,6 @@ import UserProfile54888Navigator from '../features/UserProfile54888/navigator';
 import SignIn254887Navigator from '../features/SignIn254887/navigator';
 import BlankScreen54886Navigator from '../features/BlankScreen54886/navigator';
 import Maps54822Navigator from '../features/Maps54822/navigator';
-import ArticleList54819Navigator from '../features/ArticleList54819/navigator';
 import MessengerNavigator from '../features/Messenger/navigator';
 import TutorialNavigator from '../features/Tutorial/navigator';
 import MapsNavigator from '../features/Maps/navigator';
@@ -36,7 +35,6 @@ UserProfile54888: { screen: UserProfile54888Navigator },
 SignIn254887: { screen: SignIn254887Navigator },
 BlankScreen54886: { screen: BlankScreen54886Navigator },
 Maps54822: { screen: Maps54822Navigator },
-ArticleList54819: { screen: ArticleList54819Navigator },
 Messenger: { screen: MessengerNavigator },
 Tutorial: { screen: TutorialNavigator },
 Maps: { screen: MapsNavigator },
